@@ -4,19 +4,19 @@
   
     
     <entry>
-      <title>Aron第一个博客（测试）</title>
+      <title>Hello World，Aron的第一个博客</title>
       <link href="/2020/04/17/hello-world/"/>
       <url>/2020/04/17/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><a id="more"></a><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>   <strong>hhhhhh，终！于！有！了！属！于！自！己！的！博！客！</strong></p><p>   <strong>目前打算利用这个博客总结一下学过的知识点，做一些输出，发表一些有竞争力的文章，或者分享一下自己的学习经历心得等等。</strong></p>   <a id="more"></a><p>   <strong>最近在准备考研，所以没大有时间学一些技术什么的，而且还导致我之前学习的技术有一些遗忘，我一直纠结要不要放下技术全心准备考研，最终还是觉得技术好玩点，最起码有成就感，趁着现在疫情在家，没大有学习劲头，乱搞些技术也比玩强！</strong></p><p>   <strong>现在我越发觉得要学的技术是真的多，有一种恐慌感，觉学不完，恐慌过后还是决定，既然选择了编程这条路，还是不要急躁，一步一步的走下去把，把每一个小模块都打磨好。</strong></p><p>   <strong>我一直相信技术这个东西没什么（除了一些算法啥的需要动脑筋），最重要的是重复重复再重复，熟能生巧嘛！还有功在平时，需要日常的积累。</strong></p><p>   <strong>路漫漫其修远兮，吾将上下而求索。加油吧！</strong></p>]]></content>
       
       
+      <categories>
+          
+          <category> 心得 </category>
+          
+      </categories>
       
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
       
     </entry>
     
